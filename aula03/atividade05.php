@@ -5,7 +5,7 @@
             $resul += $num;
             echo "$resul <br>";
         }
-
+        echo "<hr>";
         return $resul;
     }
         
@@ -13,5 +13,6 @@
         $teste2 = [4,8,12];
 
         total($teste2);
+        total($teste1);
 
 ?>
