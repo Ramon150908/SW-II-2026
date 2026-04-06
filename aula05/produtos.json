@@ -1,0 +1,20 @@
+{
+    "0": {
+        "produto": "teclado",
+        "preco": 52,
+        "estoque": 15
+    },
+    "1": {
+        "produto": "mouse",
+        "preco": 32,
+        "estoque": 12
+    },
+    "2": {
+        "produto": "monitor",
+        "preco": 79,
+        "estoque": 35
+    },
+    "produto": "controle",
+    "preco": 210,
+    "estoque": 33
+}
